@@ -1,0 +1,129 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.suzdalenko.translate",
+    "sha256_cert_fingerprints":
+    ["83:13:96:DB:F7:45:71:78:D8:D8:C4:79:04:7C:BE:D3:0E:5C:0E:4C:00:86:2B:CD:FD:B3:57:78:2A:28:B6:57"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "http://suzdalenko.com"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.suzdalenko.translate",
+    "sha256_cert_fingerprints":
+    ["83:13:96:DB:F7:45:71:78:D8:D8:C4:79:04:7C:BE:D3:0E:5C:0E:4C:00:86:2B:CD:FD:B3:57:78:2A:28:B6:57"]
+  }
+},
+
+
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.suzdalenko.radio",
+    "sha256_cert_fingerprints":
+    ["83:13:96:DB:F7:45:71:78:D8:D8:C4:79:04:7C:BE:D3:0E:5C:0E:4C:00:86:2B:CD:FD:B3:57:78:2A:28:B6:57"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "http://suzdalenko.com"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.suzdalenko.radio",
+    "sha256_cert_fingerprints":
+    ["83:13:96:DB:F7:45:71:78:D8:D8:C4:79:04:7C:BE:D3:0E:5C:0E:4C:00:86:2B:CD:FD:B3:57:78:2A:28:B6:57"]
+  }
+},
+
+
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.suzdalenko.cadenadial",
+    "sha256_cert_fingerprints":
+    ["83:13:96:DB:F7:45:71:78:D8:D8:C4:79:04:7C:BE:D3:0E:5C:0E:4C:00:86:2B:CD:FD:B3:57:78:2A:28:B6:57"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://suzdalenko-alexey.web.app"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.suzdalenko.cadenadial",
+    "sha256_cert_fingerprints":
+    ["83:13:96:DB:F7:45:71:78:D8:D8:C4:79:04:7C:BE:D3:0E:5C:0E:4C:00:86:2B:CD:FD:B3:57:78:2A:28:B6:57"]
+  }
+}, 
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.suzdalenko.ibiza",
+    "sha256_cert_fingerprints":
+    ["83:13:96:DB:F7:45:71:78:D8:D8:C4:79:04:7C:BE:D3:0E:5C:0E:4C:00:86:2B:CD:FD:B3:57:78:2A:28:B6:57"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://suzdalenko-alexey.web.app"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.suzdalenko.ibiza",
+    "sha256_cert_fingerprints":
+    ["83:13:96:DB:F7:45:71:78:D8:D8:C4:79:04:7C:BE:D3:0E:5C:0E:4C:00:86:2B:CD:FD:B3:57:78:2A:28:B6:57"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "russian.televison",
+    "sha256_cert_fingerprints":
+    ["83:13:96:DB:F7:45:71:78:D8:D8:C4:79:04:7C:BE:D3:0E:5C:0E:4C:00:86:2B:CD:FD:B3:57:78:2A:28:B6:57"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://suzdalenko-alexey.web.app"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "russian.televison",
+    "sha256_cert_fingerprints":
+    ["83:13:96:DB:F7:45:71:78:D8:D8:C4:79:04:7C:BE:D3:0E:5C:0E:4C:00:86:2B:CD:FD:B3:57:78:2A:28:B6:57"]
+  }
+}]
